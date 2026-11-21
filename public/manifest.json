@@ -1,0 +1,16 @@
+{
+  "name": "Курсы валют за неделю",
+  "short_name": "Курсы",
+  "description": "Фиктивные курсы USD, EUR, CNY за неделю",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f1f5f9",
+  "theme_color": "#2563eb",
+  "lang": "ru",
+  "icons": [
+    { "src": "/icons/icon.png", "sizes": "348x348", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon.png", "sizes": "348x348", "type": "image/png", "purpose": "maskable" }
+  ]
+}
